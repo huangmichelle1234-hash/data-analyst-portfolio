@@ -1,4 +1,4 @@
-# 🇨🇱 Chile GDP and Life Expectancy Analysis (2000–2016)
+# Chile GDP and Life Expectancy Analysis (2000–2016)
 
 ## 📊 Overview
 This project explores the relationship between **economic growth (GDP)** and **life expectancy** in Chile from **2000 to 2016**.  
